@@ -1,9 +1,1 @@
-![dress1](https://github.com/rathidevii09/CODSOFT/assets/132140012/5d62beab-85a5-4185-abc3-ceb154381a96)
-![image bg](https://github.com/rathidevii09/CODSOFT/assets/132140012/e5eb71c6-0f14-4151-81cd-4daf7c2eaa07)
-![dress2](https://github.com/rathidevii09/CODSOFT/assets/132140012/bc824c43-7d14-4e3b-afc4-6ff28ce95a8f)
-![image2](https://github.com/rathidevii09/CODSOFT/assets/132140012/649e93d0-b827-47b4-9ca8-b220bc939acc)
-![dress3](https://github.com/rathidevii09/CODSOFT/assets/132140012/47eb6b66-2304-4b58-af53-baa2b8f5c101)
-![image3](https://github.com/rathidevii09/CODSOFT/assets/132140012/c71279d4-3cc9-4fa1-b23d-83eb3672443d)
-![image4](https://github.com/rathidevii09/CODSOFT/assets/132140012/b2584ff8-272e-4eb1-bfab-f96b565acba8)
-![image5](https://github.com/rathidevii09/CODSOFT/assets/132140012/6e9e7c7c-1b3c-4ac1-a1b2-3b9e9c15871c)
-![dress4](https://github.com/rathidevii09/CODSOFT/assets/132140012/e3bfa76d-f16e-4c6c-a7f9-b63571a8b1db)
+

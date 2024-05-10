@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RATHIDEVI - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url(portbg.jpg);
+            background-blend-mode: lighten;
+            background-repeat: no-repeat;
+            background-size:cover;
+            margin: 0;
+            padding: 0;
+            border: 8px solid black;
+        }
+
+
+        .navbar {
+            background-color: #333; /* Dark gray background color for the navbar */
+            color: #fff; /* White text color for the navbar */
+            padding: 10px 0;
+        }
+
+        .container {
+            max-width: 200px;
+            margin: 0 auto;
+            display:run-in;
+            justify-content: space-between;
+            align-items: left;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            padding: 10px;
+            height: auto;
+        }
+        .logo img {
+            height: 50px; /* Adjust the height of the logo */
+            float:unset;
+            margin-left: 650px;
+            border-radius: 40%;
+        }
+
+        .logo h1 {
+            margin-left: 10px;
+        }
+       
+        .profile img{
+            height: 300px;
+            width: 300px;
+            border-radius: 50%;
+            border: 3px solid rgb(233, 220, 220);
+            float:inline-end;
+            box-shadow: 0 0 20px rgb(16, 194, 31);
+            margin-top: -250px;
+        }
+        .calcimg img{
+            height: 230px;
+            width: 280px;
+            border: 3px solid rgb(233, 220, 220);
+            float:inline-end;
+            margin-top: -90px;
+        }
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        .navbar ul li {
+            margin-right: 20px;
+        }
+
+        .navbar ul li a {
+            color: #fff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .navbar ul li a:hover {
+            color: #f8b500; /* Change the color on hover */
+        }
+
+        .section {
+            padding: 40px 0;
+        }
+
+        .section h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        .section p {
+            line-height: 1.9;
+            max-width: 480px;
+        }
+
+        .section .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .project {
+            margin-bottom: 30px;
+        }
+
+        .project h3 {
+            margin-bottom: 10px;
+        }
+
+        .project p {
+            margin-bottom: 20px;
+        }
+
+        .project a {
+            color: #1b10ad;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        .project a:hover {
+            color: #f8b500;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <img src="logo.png" alt="Logo">
+            </div>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>Hii, I'm <font color="darkpink">Rathidevi</font></h2><br><br>
+            <p>I'm Currently in my Second Year of B.Sc. Computer Science,focusing on learning web development,Git,GitHub, and Java. I actively post my projects on LinkedIn to showcase my progress  and improve my programming skills. It's all  part of my journey to enhance my abilities and grow in the field of technology.</p>
+            <div class="profile">
+            <img src="profile.jpg" alt="Profile Picture">
+        </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <div class="container">
+
+            <h2>Skills</h2>
+            <ul type="square">
+                <li>HTML</li><br>
+                <li>CSS</li><br>
+                <li>JavaScript</li><br>
+                <li>Git and GitHUB</li><br>
+                <li>Java Programming</li><br>
+                <li>C Programming</li><br>
+                <li>RDBMS</li><br>
+                <li>Canva</li><br>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Fashion Hub-Landing Page</h3>
+                <p>Developed 'Fashion Hub,' my inaugural landing page project using
+                    HTML and CSS. The project encompasses a homepage, dresses
+                    section, contact form, about page, and a feedback section.</p>
+                    <p>Here is the Link->
+                <a href="https://github.com/rathidevii09/CODSOFT.git">View Project</a></p>
+                <div class="calcimg">
+                    <img src="proj.jpg" alt="Profile Picture">
+                </div>
+            </div>
+            <div class="project">
+                <h3>Calculator</h3>
+                <p>Developed a simple calculator using HTML, CSS, and JavaScript
+                    to perform basic arithmetic operations.</p>
+                    <p>Here is the Link->
+                <a href="https://github.com/rathidevii09/CODSOFT.git">View Project</a></p>
+            </div>
+        </div>
+    </section>
+
+    <section id="resume" class="section">
+        <div class="container">
+            <h2>Resume</h2>
+            <p>Here I attach my Resume!</p>
+            <p><a href="file:///C:/Users/lenovo/OneDrive/Documents/Resume%20(RD).pdf">Click to download</a></p>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <form action="#" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea><br>
+                <center><button type="submit">Send Message</button></center>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Rathidevi <br>All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
